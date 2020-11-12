@@ -1,0 +1,24 @@
+.container-fluid {
+    width: 70vh;
+    height: 70vh;
+}
+.text-1{
+    font-size: 28px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.text-2{
+    font-size: 16px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.navbar {
+    background-color: black;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 0px;
+  }
